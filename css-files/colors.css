@@ -1,0 +1,19 @@
+
+:root {
+    /* Use for Cards */
+    --colorLilac: #eee8f4;    
+    /* Use for lighter Texts */
+    --colorPurple: #6750a4;    
+    /* Use to support backgrounds */
+    --colorLightPurple: #8976bc;    
+    /* Use for darker texts */
+    --colorDarkPurple: #45366d;    
+    /* Use for Backgrounds */
+    --colorPurpleVariant: #a092c9;    
+    /* Use for light warning texts */
+    --colorDarkPink: #85184c;    
+    /* Light warning texts */
+    --colorDarkLightPink: #bc5184;    
+    /* Special cards */
+    --colorLightPink: #f9c8df;    
+}
